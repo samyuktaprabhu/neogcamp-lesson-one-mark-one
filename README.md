@@ -1,16 +1,17 @@
 # neogcamp-lesson-one-mark-one
-<a name="readme-top">Let's begin!</a>
+<a name="readme-top"></a>
 <h3 align="center" name="readme-top">Project: Do you know me? CLI Quiz App</h3>
 
   <p align="center">
     Let's see how much you know me! 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Click here to play »</strong></a>
+    <a href="https://replit.com/@SamyukthaPrabhu/LessonOneMarkOne-Samyuktha?embed=1&output=1"><strong>Click here to play »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="#"></a>
     ·
-    <a href="https://github.com/samyuktaprabhu/neogcamp-lesson-one-mark-one/issues">Report Bugs [OR] report issues</a>
+    <a href="https://github.com/samyuktaprabhu/neogcamp-lesson-one-mark-one/issues">Report Bugs [OR] Report Issues</a>
+    ·
 </div>
 
 <details>
