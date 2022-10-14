@@ -89,7 +89,7 @@ _For more examples, please refer to the [Documentation](https://www.npmjs.com/pa
 <!-- ROADMAP -->
 ## Issues
 
-See the [open issues]([https://github.com/github_username/repo_name/issues](https://github.com/samyuktaprabhu/neogcamp-lesson-one-mark-one/issues)) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/samyuktaprabhu/neogcamp-lesson-one-mark-one/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
